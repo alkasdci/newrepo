@@ -5,7 +5,7 @@
 [Some internal link](#internal-link)
 
 
-## Internal link
+## Internal LINK
 
 🥇
 
